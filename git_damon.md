@@ -1,4 +1,4 @@
-### git daemon 설정
+## git daemon 설정
 
 #### git daemon?
 - 블특정 다수에게 읽기 접근을 허용할 때 사용하는 Git 서버
